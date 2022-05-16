@@ -1,0 +1,6 @@
+#define sigma_yA sigmay[0]
+#define sigma_yB sigmay[1]
+#define sigma_yModelValue_0 sigmay[2]
+#define sigma_yModelValue_2 sigmay[3]
+#define sigma_yModelValue_1 sigmay[4]
+#define sigma_yCell sigmay[5]

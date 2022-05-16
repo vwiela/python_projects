@@ -1,0 +1,20 @@
+#include "amici/symbolic_functions.h"
+#include "amici/defines.h"
+#include "sundials/sundials_types.h"
+
+#include <gsl/gsl-lite.hpp>
+#include <array>
+#include <algorithm>
+
+#include "Spoegler_conversionReaction_x_rdata.h"
+
+namespace amici {
+namespace model_Spoegler_conversionReaction {
+
+void x_solver_Spoegler_conversionReaction(realtype *x_solver, const realtype *x_rdata){
+    x_solver[0] = A;
+    x_solver[1] = B;
+}
+
+} // namespace model_Spoegler_conversionReaction
+} // namespace amici

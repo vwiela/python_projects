@@ -1,0 +1,6 @@
+#define yA y[0]
+#define yB y[1]
+#define yModelValue_0 y[2]
+#define yModelValue_2 y[3]
+#define yModelValue_1 y[4]
+#define yCell y[5]

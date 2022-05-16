@@ -1,0 +1,5 @@
+parameterId	parameterScale	lowerBound	upperBound	nominalValue	estimate
+k1	lin	1e-05	1000.0	0.2	1
+k2	lin	1e-05	1000.0	0.1	1
+k3	lin	1e-05	1000.0	0.0	1
+sd_observed_B	lin	1e-05	1000.0	0.15	1

@@ -1,0 +1,11 @@
+format_version: 1
+parameter_file: parameters_log10_shift2.tsv
+problems:
+- sbml_files:
+  - model_log10_shift2.xml
+  condition_files:
+  - experimentalCondition_log10_shift2.tsv
+  measurement_files:
+  - measurementData_log10_shift2.tsv
+  observable_files:
+  - observables_log10_shift2.tsv

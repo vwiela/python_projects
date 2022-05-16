@@ -1,0 +1,5 @@
+#define dxdot0_dk1 dxdotdp_explicit[0]
+#define dxdot0_dk2 dxdotdp_explicit[1]
+#define dxdot1_dk2 dxdotdp_explicit[2]
+#define dxdot0_dk3 dxdotdp_explicit[3]
+#define dxdot1_dk3 dxdotdp_explicit[4]

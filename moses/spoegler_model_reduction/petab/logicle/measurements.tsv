@@ -1,0 +1,7 @@
+observableId	simulationConditionId	measurement	time	noiseParameters
+observed_B	condition1	0.16969675218169222	0	sd_observed_B
+observed_B	condition1	-0.033324857548245365	1	sd_observed_B
+observed_B	condition1	0.32582081890364245	5	sd_observed_B
+observed_B	condition1	0.6377724044204265	10	sd_observed_B
+observed_B	condition1	4.209350206642153	30	sd_observed_B
+observed_B	condition1	9.792195440161578	60	sd_observed_B
