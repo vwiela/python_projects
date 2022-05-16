@@ -1,0 +1,1 @@
+#define mobserved_B my[0]

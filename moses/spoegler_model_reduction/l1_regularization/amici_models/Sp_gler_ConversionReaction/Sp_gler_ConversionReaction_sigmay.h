@@ -1,0 +1,1 @@
+#define sigma_observed_B sigmay[0]

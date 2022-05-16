@@ -2,4 +2,4 @@ parameterId	parameterScale	lowerBound	upperBound	nominalValue	estimate
 k1	lin	0	3	0.07918125	1
 k2	lin	0	3	0.04139269	1
 k3	lin	0	3	0.0	1
-sd_observed_B	lin	1e-05	3	0.17609126	1
+sd_observed_B	lin	1e-05	3	0.17609126	0
